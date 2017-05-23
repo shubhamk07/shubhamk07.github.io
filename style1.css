@@ -1,0 +1,62 @@
+.navbar{
+    background-color: #131313;
+    font-size: 2.5vmin;
+    
+}
+#intro{
+    background-color: #1ABC9C;
+    color: black;
+    font-family: 'Overlock';
+}
+#about{
+   background-color: ;
+    background-color: #D5D5D5;
+    color: black;
+   line-height: 2.0;
+    font-size: 1.2em;
+}
+#contact{
+    background-color: #474E5D;
+    color: #D5D5D5;
+    height: 40%;
+    padding-top: 2%;
+   overflow-x: hidden;
+}
+body{
+    color:white;
+     font-family: "Vollkorn",Georgia,"Times New Roman",Times,serif;
+}
+.work{
+    color:black;
+    background-color: white;
+    line-height: 2.0;
+    font-size: 1.2em;
+    
+    
+}
+.hello{
+    font-weight: 500;
+    font-size: 4em;
+}
+.pad {
+    padding-bottom: 2%;
+    
+}
+.reach{
+    color:cadetblue;
+    font-size: 6vmin;
+    font-family: monospace;
+}
+a:hover {
+    color:cyan;
+    
+}
+@media only screen and (min-device-width : 550px) and (max-device-width : 767px){
+    .reach{
+        font-size: 4vmin;
+    }
+
+@media only screen and (min-device-width : 300px) and (max-device-width : 549px){
+    .reach{
+        font-size: 3vmin;
+    }
